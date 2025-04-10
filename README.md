@@ -1,6 +1,6 @@
 # PHANtunAI - Algorithmic Trading System Generative Expert Agent (AT-GEA)
 
-## 0 Introduction
+## 0. Introduction
 In today’s fast-paced and data-driven financial markets, the ability to analyze massive datasets, identify patterns, and execute trades with precision and speed has become a critical competitive edge. The **Algorithmic Trading System Generative Expert Agent (AT-GEA)** is a next-generation AI-driven solution designed to meet these demands, seamlessly integrating advanced machine learning, generative modeling, and domain-specific financial intelligence.
 
 AT-GEA functions as a dynamic, self-improving trading assistant capable of developing, evaluating, and optimizing algorithmic trading strategies in real-time. Leveraging generative AI models, the agent synthesizes insights from historical market data, economic indicators, and live feeds to autonomously generate and test new trading algorithms. It adapts to shifting market conditions, continuously fine-tuning its strategies to align with user-defined risk tolerances, performance goals, and regulatory constraints.
@@ -19,7 +19,7 @@ The AT-GEA is not just a tool—it is a collaborative expert that empowers trade
 
 The Algorithmic Trading System Generative Expert Agent (AT-GEA) is a powerful AI-driven platform designed to assist users in developing, testing, deploying, and monitoring algorithmic trading strategies. To ensure safe, effective, and responsible use of the system, follow these guidelines carefully.
 
-## 🔧 1 System Initialization & Configuration
+## 🔧 1. System Initialization & Configuration
 - User Profile Setup: Define your user role (e.g., trader, quant researcher, developer) and risk profile. This tailors recommendations and access levels.
 
 - API Integration: Securely connect your broker/exchange accounts, data feeds, and execution systems.
