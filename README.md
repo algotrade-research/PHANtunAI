@@ -80,45 +80,36 @@ By adhering to these guidelines, users can safely harness the full potential of 
 # 📚 References for Algorithmic Trading System Generative Expert Agent
 🧠 1. Foundational AI & Generative Models
 
-Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
-↳ A comprehensive guide to neural networks and deep learning, including generative models.
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. - A comprehensive guide to neural networks and deep learning, including generative models.
 
-Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes. arXiv:1312.6114
-↳ Introduces Variational Autoencoders (VAEs), useful for modeling financial data distributions.
+Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes. arXiv:1312.6114 - Introduces Variational Autoencoders (VAEs), useful for modeling financial data distributions.
 
-Radford, A., et al. (2019). Language Models are Unsupervised Multitask Learners. OpenAI.
-↳ Basis for using large generative language models (like GPT) in dynamic, multi-domain environments.
+Radford, A., et al. (2019). Language Models are Unsupervised Multitask Learners. OpenAI. - Basis for using large generative language models (like GPT) in dynamic, multi-domain  environments.
 
 💹 2. Algorithmic Trading & Quantitative Finance
 
-Chan, E. (2013). Algorithmic Trading: Winning Strategies and Their Rationale. Wiley.
-↳ Practical strategies and examples of algorithmic trading systems.
+Chan, E. (2013). Algorithmic Trading: Winning Strategies and Their Rationale. Wiley. - Practical strategies and examples of algorithmic trading systems.
 
-Narang, R. (2013). Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading. Wiley.
-↳ Explores automated systems and decision-making models in trading.
+Narang, R. (2013). Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading. Wiley. - Explores automated systems and decision-making models in trading.
 
-Kissell, R. (2013). The Science of Algorithmic Trading and Portfolio Management. Academic Press.
-↳ Covers execution algorithms, market microstructure, and portfolio management techniques.
+Kissell, R. (2013). The Science of Algorithmic Trading and Portfolio Management. Academic Press. - Covers execution algorithms, market microstructure, and portfolio management techniques.
 
 🧠 3. Intelligent Agents & Reinforcement Learning
 
-Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press.
-↳ Foundational text for reinforcement learning agents—core to adaptive strategy generation.
+Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press. - Foundational text for reinforcement learning agents—core to adaptive strategy generation.
 
-Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4th ed.). Pearson.
-↳ Covers intelligent agents, planning, and decision-making under uncertainty.
+Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4th ed.). Pearson. - Covers intelligent agents, planning, and decision-making under uncertainty.
 
-Silver, D., et al. (2016). Mastering the Game of Go with Deep Neural Networks and Tree Search. Nature, 529(7587), 484–489.
-↳ Shows the integration of planning and learning—similar to how trading agents adapt strategies.
+Silver, D., et al. (2016). Mastering the Game of Go with Deep Neural Networks and Tree Search. Nature, 529(7587), 484–489. - Shows the integration of planning and learning—similar to how trading agents adapt strategies.
 
 🧮 4. Market Simulation, Backtesting, and Risk
 
-Bailey, D., Borwein, J., Lopez de Prado, M., & Zhu, Q. (2014). The Probability of Backtest Overfitting. Journal of Computational Finance.
-↳ Critical insights into overfitting in trading strategy development.
+Bailey, D., Borwein, J., Lopez de Prado, M., & Zhu, Q. (2014). The Probability of Backtest Overfitting. Journal of Computational Finance. - Critical insights into overfitting in trading strategy development.
 
-Lopez de Prado, M. (2018). Advances in Financial Machine Learning. Wiley.
-↳ Advanced techniques in backtesting, labeling, and feature engineering for trading models.
+Lopez de Prado, M. (2018). Advances in Financial Machine Learning. Wiley. - Advanced techniques in backtesting, labeling, and feature engineering for trading models.
 
 🧰 5. Tools, Platforms, and Real-World Implementations
-- ALGOTRADE - https://www.algotrade.vn: Pioneer in Algorithmic Trading field in Vietnam.
-- OpenAI API Documentation – https://platform.openai.com/docs: Reference for integrating generative models like GPT for prompt-driven strategy creation and reasoning.
+
+ALGOTRADE - https://www.algotrade.vn - Pioneer in Algorithmic Trading field in Vietnam.
+
+OpenAI API Documentation – https://platform.openai.com/docs - Reference for integrating generative models like GPT for prompt-driven strategy creation and reasoning.
