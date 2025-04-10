@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/PLUTUS-Incubator_%F0%9F%A5%9A-darkgreen)
+
 # PHANtunAI - Algorithmic Trading System Generative Expert Agent (AT-GEA)
 
 ## 0. Introduction
